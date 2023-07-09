@@ -1,8 +1,12 @@
 A journalist ask a programmer:what makes bad codes?
 No comment
 
-if having a coffee in the morning doesn't wake you up, try deleting a table 
-in a producttion database instead.
+if having a coffee in the morning doesn't wake you up, try deleting a table in a producttion database instead.
 
 How many programers does it take to screw in a lightbulb?
 None, it's a hardware problem.
+
+---
+
+why can't a nose be 12 inches long?
+Because it'd be a foot.

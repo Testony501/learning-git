@@ -3,3 +3,6 @@ No comment
 
 if having a coffee in the morning doesn't wake you up, try deleting a table 
 in a producttion database instead.
+
+How many programers does it take to screw in a lightbulb?
+None, it's a hardware problem.
